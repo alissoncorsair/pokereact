@@ -10,7 +10,7 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/alissoncorsair/pokereact
+git clone https://github.com/alissoncorsair/pokereact.git
 cd reactjs-task-1
 npm install
 ```
